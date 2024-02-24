@@ -10,6 +10,7 @@
 // Guests decide whether to take or leave the cupcake based on whether they have already
 // partaken in one. Importantly, only the leader retains the authority to replace a cupcake,
 // necessitating a request to the servants for this task.
+
 #include <algorithm>
 #include <array>
 #include <chrono>

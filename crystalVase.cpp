@@ -24,6 +24,7 @@
 // approaches the fairness of Approach 3, experimentation and research suggest that the queue method
 // is the fairest. The drawback of the queue method lies in the potential enlargement of the array as
 // the number of guests increases in an array-based implementation.
+
 #include <array>
 #include <chrono>
 #include <deque>
